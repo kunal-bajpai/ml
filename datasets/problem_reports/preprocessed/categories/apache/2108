@@ -1,0 +1,1 @@
+Servlet/NNP works/VBZ on/IN M4/NNP but/CC on/IN M5/NNP the/DT following/VBG exception/NN is/VBZ thrown./JJ javax.servlet.ServletException:/NNP Class/NNP mydomain.servlets.util.RequestManagerServlet/NNP is/VBZ not/RB a/DT Servlet/NNP BugRat/NNP Report#604/NNP

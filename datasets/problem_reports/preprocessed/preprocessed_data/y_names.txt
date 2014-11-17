@@ -1,0 +1,5 @@
+apache
+eclipse
+firefox
+linux
+openoffice

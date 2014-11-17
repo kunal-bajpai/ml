@@ -1,0 +1,1 @@
+If/IN browser/NN send/VBP russian/JJ locale/NN (ru)/NN then/RB StaticInterceptor/NNP traps/NNS with/IN a/DT "non/NN ISO-8859-1"/NN charset/NN exception/NN at/IN attempt/NN to/TO write/VB buf/NN to/TO ServletOutputStream

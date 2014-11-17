@@ -1,0 +1,1 @@
+socket.close()/JJ doesn't/NN always/RB close/RB underlying/VBG connection/NN in/IN HttpConnectionHandler/NNP BugRat/NNP Report#391/NNP

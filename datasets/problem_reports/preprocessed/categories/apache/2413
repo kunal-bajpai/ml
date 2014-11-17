@@ -1,0 +1,1 @@
+Use/NNP setCharacterEncoding("UTF8")/NNP does/VBZ not/RB change/VB the/DT way/NN getParameterValue*()/NNP decodes/VBZ characters./NN BugRat/NNP Report#785/NNP

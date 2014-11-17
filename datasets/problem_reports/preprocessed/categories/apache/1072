@@ -1,0 +1,1 @@
+warn/VB if/IN <delete/JJ task/NN contains/VBZ a/DT fileset/NN AND/CC a/DT dir/NN attribute!!/NN The/DT content/NN of/IN dir/NN is/VBZ deleted/VBN before/IN fileset's/NNS exclude/VBP is/VBZ evaluated!!!/NN

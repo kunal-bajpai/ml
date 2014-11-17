@@ -1,0 +1,1 @@
+Stopping/VBG Apache2/JJ service/NN causes/NNS libapr.dll/VBP to/TO crash/VB twice/RB when/WRB mod_auth_ldap/NN and/CC util_ldap/JJ modules/NNS are/VBP loaded/VBN and/CC caching/NN is/VBZ enabled/VBN (LDAPSharedCacheSize/NNP <>/CD 0)/CD

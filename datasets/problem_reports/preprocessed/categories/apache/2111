@@ -1,0 +1,1 @@
+Tomcat/NNP does/VBZ not/RB properly/RB seperate/VB the/DT servlet/NN name/NN when/WRB the/DT URL/NNP is/VBZ encoded/VBN witht/NN a/DT session/NN ID/NNP and/CC no/DT extra/JJ path/NN info./NN BugRat/NNP Report#726/NNP

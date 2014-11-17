@@ -1,0 +1,1 @@
+javax.servlet.request.key-size/JJ and/CC javax.servlet.request.cipher-suite/JJ attributes/NNS not/RB being/VBG set/VBN correctly/RB for/IN SSL/NNP connections/NNS in/IN Tomcat/NNP 4.0/CD Beta/NN 5/CD

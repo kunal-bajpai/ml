@@ -1,0 +1,1 @@
+mod_jk/NN gets/VBZ in/IN an/DT infinite/JJ loop/NN when/WRB client/NN does/VBZ not/RB send/VB content-length/JJ #/# of/IN bytes/NNS to/TO server/VB BugRat/NNP Report#469/NNP
