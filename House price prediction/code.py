@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from sklearn import linear_model, preprocessing, cross_validation
 
 print("Importing bivariate data...")
-data = np.genfromtxt("ex1data2.txt",delimiter=',')
+data = np.genfromtxt("data.txt",delimiter=',')
 x = data[:,:2]
 y = data[:,2]
 print("Fitting classifier...")
